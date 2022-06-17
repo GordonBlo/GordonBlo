@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+    <meta name = "viewport" content="wclassth=device-wclassth, initial-scale=1.0" />
+    <title>Calendar</title>
+    <link rel="stylesheet" href="cssform.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<style>
+</style>
+<body>
+
+<?php 
+	include ('login.php');
+	include ('saveDatas.php');
+?>
+
+<div class="container">
+      <div class="calendar">
+        <div class="month">
+          <i class="fas fa-angle-left prev"></i>
+          <div class="date">
+            <h1></h1>
+            <p></p>
+          </div>
+          <i class="fas fa-angle-right next"></i>
+        </div>
+        <div class="weekdays">
+          <div>Sun</div>
+          <div>Mon</div>
+          <div>Tue</div>
+          <div>Wed</div>
+          <div>Thu</div>
+          <div>Fri</div>
+          <div>Sat</div>
+        </div>
+        <div class="days">
+			<!--A magatol lerendelt napok itt vannak-->
+		</div>
+      </div>
+	  	<!--Ez az az ablak ami beugrik ha ra click elunk egy napra-->
+	  <form action="saveDatas.php" method="POST">
+		<div class="jumpPage">
+			<label class="nameOfTheList"><b><h1>- napi dolgok :</h1></b></label>
+			<br>
+			<h3 class="date2"></h3> <!--az adott datum-->
+      <br>
+      <h3 class="adottNap"></h3> <!-- az adott napot muataja -->
+			<br>
+			<textarea placeholder="Adja meg a napi dolgat" name="napiTask" required></textarea>
+			<button class="button" type="submit" name="saveButton">OK</button>
+      <button class="exit" type="submit2" name="exitButton">exit</button>
+	 	</div>
+	  </form>
+    </div>
+
+    <script src="javascrift.js"></script>
+
+</body>
+</html>
