@@ -161,11 +161,8 @@ I am especially interested in roles where I can combine:
 
 ## Contact
 
-**GitHub:**
+**GitHub:**  
 https://github.com/GordonBlo
 
-**LinkedIn:**
-Add your LinkedIn link here
-
-**Email:**
-Add your email here
+**LinkedIn:**  
+https://www.linkedin.com/in/richard-peter-andre
