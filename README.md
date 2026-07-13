@@ -1,39 +1,37 @@
-# Hi, I'm Richard 👋
+# Hi, I'm Richard
 
-I'm a junior backend and full-stack developer based in Oradea, Romania.
+I'm a backend-focused junior developer based in Oradea, Romania.
 
-My main focus is building practical web applications with **Python, FastAPI, Flask, SQLAlchemy, REST APIs, JWT authentication, and SQLite**. I also work with **HTML, CSS, JavaScript, Vite**, and I am currently expanding my frontend skills with **React and TypeScript**.
+I build practical web applications with **Python, FastAPI, Flask, SQLAlchemy, REST APIs, JWT authentication, and SQLite**. I also work with **HTML, CSS, JavaScript, and Vite**, while expanding my frontend skills with React and TypeScript.
 
-I use AI tools to support planning, debugging, testing, and documentation, while making sure I understand and review the code I build.
+I use AI tools for planning, debugging, and learning, but I review, test, and understand the code I add to my projects.
 
 ## Featured Projects
 
-### BuildFlow
+### [BuildFlow](https://github.com/GordonBlo/BuildFlow)
 
-A backend-first construction project management application built with FastAPI, SQLAlchemy, JWT authentication, protected routes, ownership validation, and layered architecture.
+A construction project management backend built with FastAPI, SQLAlchemy, JWT authentication, protected routes, ownership validation, and layered architecture. Currently in active development.
 
-### Task Manager v2
+### [Task Manager v2](https://github.com/GordonBlo/task-manager-flask-jwt)
 
-A Flask-based task management application with registration, login, JWT authentication, user-specific CRUD operations, and a simple frontend.
+A Flask web application with registration, login, JWT authentication, user-specific CRUD operations, SQLite persistence, and a simple frontend.
 
-### Crime and Punishment WebBook
+### [Crime and Punishment WebBook](https://github.com/GordonBlo/crime-and-punishment-webbook)
 
-An interactive webbook built with HTML, CSS, JavaScript, and Vite, featuring animated page turning and responsive design.
+An interactive digital book built with HTML, CSS, JavaScript, and Vite, featuring animated page turning and responsive design.
 
 ## Current Focus
 
-* Backend architecture
-* REST API development
+* Backend architecture and REST API development
 * Authentication and authorization
-* Database design
+* Automated testing
+* PostgreSQL and Docker
 * React and TypeScript fundamentals
-* Writing cleaner, testable, production-oriented code
 
-## Looking For
+## Career Goal
 
-Junior backend, full-stack, or web developer opportunities where I can contribute, learn from experienced developers, and continue growing through real projects and code review.
+I'm looking for a junior backend, full-stack, or web developer opportunity where I can contribute to real projects, receive code review, and continue growing within an experienced team.
 
 ## Contact
 
-* LinkedIn: [Richard Peter Andre](https://www.linkedin.com/in/richard-peter-andre-097b3b24a/)
-* GitHub: [GordonBlo](https://github.com/GordonBlo)
+[LinkedIn](https://www.linkedin.com/in/richard-peter-andre-097b3b24a/)
